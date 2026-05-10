@@ -1,0 +1,10 @@
+git init
+cd
+mkdir
+nano
+ls
+vas a utilizar
+git add
+git commit-m
+git push
+
