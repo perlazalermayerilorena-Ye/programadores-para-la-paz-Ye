@@ -1,0 +1,5 @@
+Aquí tienes 3 prácticas básicas y esenciales de seguridad digital:
+ 
+1. Usar contraseñas seguras y únicas: Combina letras mayúsculas, minúsculas, números y símbolos; no repitas la misma contraseña en distintas cuentas y cámbialas periódicamente.
+2. Mantener todo actualizado: Instala las últimas actualizaciones del sistema operativo, aplicaciones y programas, ya que corrigen fallos y vulnerabilidades de seguridad.
+3. Verificar antes de hacer clic o descargar: No abras correos, mensajes o enlaces de remitentes desconocidos, y descarga archivos solo desde sitios oficiales y confiables.

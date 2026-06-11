@@ -1,0 +1,5 @@
+1. 🔒 Verificación y moderación de perfiles: Confirmar la identidad de los usuarios y revisar publicaciones, comentarios o contenidos para evitar cuentas falsas, spam o información dañina.
+2. 🛡️ Protección de datos personales: Cumplir con normas de privacidad, no compartir ni almacenar información sensible sin permiso, y permitir que cada usuario controle qué datos son públicos.
+3. ⚠️ Reglas claras y educación: Establecer normas de convivencia y seguridad, y enseñar a la comunidad a identificar fraudes, estafas o mensajes peligrosos.
+4. 🔑 Acceso y permisos restringidos: Solo dar acceso de administración o edición a personas responsables, y usar contraseñas seguras y autenticación en dos pasos.
+5. 📢 Canal seguro para denuncias: Tener un espacio fácil y privado para que los usuarios reporten abusos, amenazas o fallos de seguridad, y actuar rápido ante cada aviso.
