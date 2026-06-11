@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+Pregunta 8 — Agregar 
