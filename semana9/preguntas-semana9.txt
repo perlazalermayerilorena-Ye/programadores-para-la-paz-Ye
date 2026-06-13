@@ -1,0 +1,24 @@
+
+Pregunta:1
+
+¿Que es un servidor en una aplicacion Web?
+
+Respuesta:B
+
+Pregunta:2
+
+¿ Que significa que un servidor escuche en un puerto?
+
+Respuesta:B
+
+Respuesta:3
+
+¿ Cual de los siguientes elementos es importante para la estabilidad de un servidor?
+
+Respuesta:B
+
+Pregunta:4
+
+¿ Que son los logs en un servidor?
+
+Respuesta:A
